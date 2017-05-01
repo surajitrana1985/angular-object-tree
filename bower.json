@@ -1,0 +1,15 @@
+{
+    "name": "jsontreedemo",
+    "description": "An application to show object JSON in tree view",
+    "main": "index.js",
+    "authors": [
+        "Surajit.Rana"
+    ],
+    "private": true,
+    "license": "MIT",
+    "homepage": "",
+    "devDependencies": {
+        "angular": "^1.6.4",
+        "bootstrap": "^3.3.7"
+    }
+}

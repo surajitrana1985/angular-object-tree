@@ -1,0 +1,15 @@
+{
+    "name": "jsontreedemo",
+    "version": "1.0.0",
+    "description": "An application to show object JSON in tree view",
+    "main": "app.js",
+    "dependencies": {
+        "http-server": "^0.9.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Surajit.Rana",
+    "license": "MIT"
+}
